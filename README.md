@@ -34,7 +34,7 @@ On some Linux/macOS systems use `python3 cybertool.py`.
 ```bash
 pkg update
 pkg install python git
-git clone https://github.com/YOUR-USERNAME/cybertool.git
+git clone https://github.com/leoasemota3467/cybertool.git
 cd cybertool
 python cybertool.py
 ```
